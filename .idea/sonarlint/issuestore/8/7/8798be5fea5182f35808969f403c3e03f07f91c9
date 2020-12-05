@@ -1,0 +1,24 @@
+
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(İËéÍ8¾œÓèâ.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(¸½×÷ÿÿÿÿÿ8¾œÓèâ.
+c
+java:S11928"FDefine a constant instead of duplicating this literal "Sugar" 3 times.(™®¬«8¾œÓèâ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘8İı’åâ.
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8â“‘éâ.
+U	java:S106p"9Replace this use of System.out or System.err by a logger.(¸Â´Û8â“‘éâ.
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(µÚ¿šüÿÿÿÿ8ç±ˆéâ.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ûã¥É8Íæâ.
+U
+java:S1197N"8Move the array designator from the variable to the type.(Í‚Ì8¾œÓèâ.
+i
+java:S1192,"GDefine a constant instead of duplicating this literal "Boiled" 3 times.(ÜÅ½¬ûÿÿÿÿ8¾œÓèâ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ»¨Ïøÿÿÿÿ
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıÀâöüÿÿÿÿ8¬¨ûäâ.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(şñ‚Ÿıÿÿÿÿ8¾œÓèâ.
+i
+java:S1192,"GDefine a constant instead of duplicating this literal "Cooked" 3 times.(ÜÅ½¬ûÿÿÿÿ8¾œÓèâ.
+d
+java:S2095#"GUse try-with-resources or close this "Statement" in a "finally" clause.(Š‘¼Ù8Â ıäâ.
+e
+java:S2095!"HUse try-with-resources or close this "Connection" in a "finally" clause.(ã” µ8Â ıäâ.
